@@ -6,12 +6,29 @@
         <h2 class="mt-4 h1">A melhor pizza da região</h2>
         <hr>
 
-        <p>
+        <p class="fw-bold">
             No final dos anos 1950, quando a cidade ainda exalava aromas da imigração italiana, a família Rossi decidiu trazer um pedacinho da Nápoles para o Brasiç. E assim, em 1958, nascia a Super Pizza Pan, em um churrasco casarão na Rua Treze de Maio, 1452. A massa macia, os ingredientes frescos e o amor pela tradição italiana eram os segredos por trás de cada fatia.
         </p>
         
-        <p>
+        <p class="fw-bold">
             O nome "Super Pizza Pam" não foi escolhido por acaso. As pizzas aqui são separadas em formas redondas, como verdadeiras rodas de sabor. Os italianos que chegaram a São Paulo trouxeram consigo a paixão pela pizza, e a Super Pizza Pan se tornou um ícone dessa tradição. Os sabores clássicos, como pepperoni e frango Philadelphia, são celebrados por clientes diéis e novos visitantes.
         </p>
-
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+            <br>
+    </div>
+</main>
 <?php include("rodape.php")?>
